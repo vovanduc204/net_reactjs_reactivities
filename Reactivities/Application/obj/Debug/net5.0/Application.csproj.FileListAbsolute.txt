@@ -1,0 +1,15 @@
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\bin\Debug\net5.0\Application.deps.json
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\bin\Debug\net5.0\Application.dll
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\bin\Debug\net5.0\ref\Application.dll
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\bin\Debug\net5.0\Application.pdb
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\bin\Debug\net5.0\Domain.dll
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\bin\Debug\net5.0\Domain.pdb
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\Application.dll
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\ref\Application.dll
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\Application.pdb

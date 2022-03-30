@@ -10,3 +10,15 @@ D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Dom
 D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
 D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
 D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\bin\Debug\net5.0\Domain.dll
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\bin\Debug\net5.0\ref\Domain.dll
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
+F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb

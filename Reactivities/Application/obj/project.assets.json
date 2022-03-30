@@ -27,19 +27,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vvduc\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "F:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\vvduc\\.nuget\\packages\\",
-      "outputPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\obj\\",
+      "projectPath": "F:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "F:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\vvduc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +60,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj"
+            "F:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "F:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }
@@ -83,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

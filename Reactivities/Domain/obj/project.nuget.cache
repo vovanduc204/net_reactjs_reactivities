@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0tOor7FL0/wCPfPHf8l0kDt8wqz7BM2g4Fxxm+R/gBvy8HtzRtWUoqp7PzdcH9nwMbjEbHoiC1wDnrMUnu9THg==",
+  "dgSpecHash": "995IVgZ+fkdDH0Wjechx5509Z0oWlSnVJev0ot6N1XafZ5WX7I2IDGt2ucYVKo0TdVbRswxJPAqZ0SuTcwZ5dw==",
   "success": true,
-  "projectFilePath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "F:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

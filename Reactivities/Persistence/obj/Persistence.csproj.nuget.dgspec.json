@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "f:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj": {
+    "f:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj",
-        "projectName": "Persistence",
-        "projectPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\vvduc\\.nuget\\packages\\",
-        "outputPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Persistence\\obj\\",
+        "projectUniqueName": "f:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "f:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "f:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vvduc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +59,75 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "f:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "f:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "f:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "f:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "f:\\ASP.NET_CORE\\Domain_Driven_Design\\reactjs_netcore_signalR\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

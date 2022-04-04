@@ -6,27 +6,31 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
 using System;
+using MediatR;
+using Application.Activities;
 
 namespace API.Controllers
 {
     public class ActivitiesController : BaseApiController
     {
-        private readonly DataContext _context;
-        public ActivitiesController(DataContext context)
+        private readonly IMediator _mediator;
+
+        public ActivitiesController(IMediator mediator)
         {
-            _context = context;
+            _mediator = mediator;
+
         }
 
         [HttpGet]
         public async Task<ActionResult<List<Activity>>> GetActivities()
         {
-            return Ok(await _context.Activities.ToListAsync());
+            return Ok(await _mediator.Send(new List.Query()));
         }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetActivity(Guid id)
         {
-            return Ok(await _context.Activities.FindAsync(id));
+            return Ok();
         }
 
 

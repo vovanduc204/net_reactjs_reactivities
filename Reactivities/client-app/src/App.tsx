@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import 'semantic-ui-css/semantic.min.css';
+import { Button, Icon, Label } from 'semantic-ui-react';
 
 function App() {
   return (
@@ -18,6 +20,16 @@ function App() {
         >
           Learn React
         </a>
+
+        <Button as='div' labelPosition='right'>
+          <Button color='red'>
+            <Icon name='heart' />
+            Like
+          </Button>
+          <Label as='a' basic color='red' pointing='left'>
+            2,048
+          </Label>
+        </Button>
       </header>
     </div>
   );

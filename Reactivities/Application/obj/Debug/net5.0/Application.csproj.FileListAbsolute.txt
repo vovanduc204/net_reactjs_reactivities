@@ -28,3 +28,5 @@ F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactiv
 F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\Application.dll
 F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\ref\Application.dll
 F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Application\obj\Debug\net5.0\Application.pdb
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\bin\Debug\net5.0\Persistence.dll
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Application\bin\Debug\net5.0\Persistence.pdb

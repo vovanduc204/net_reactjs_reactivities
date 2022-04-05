@@ -15,6 +15,8 @@ using Microsoft.OpenApi.Models;
 using Persistence;
 using MediatR;
 using Application.Activities;
+using Application.Core;
+using AutoMapper;
 
 namespace API
 {
@@ -51,6 +53,8 @@ namespace API
             });
 
             services.AddMediatR(typeof(List.Handler).Assembly);
+
+            services.AddAutoMapper(typeof(MappingProfiles).Assembly);
 
         }
 

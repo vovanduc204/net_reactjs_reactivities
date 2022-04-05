@@ -20,3 +20,4 @@ F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactiv
 F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
 F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
 F:\ASP.NET_CORE\Domain_Driven_Design\reactjs_netcore_signalR\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
+D:\code-practices\practive_net_reactjs\net_reactjs_reactivities\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache

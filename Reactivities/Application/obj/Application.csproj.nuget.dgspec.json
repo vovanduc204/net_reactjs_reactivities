@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj": {}
+    "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "d:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj": {
+    "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "d:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\vvduc\\.nuget\\packages\\",
-        "outputPath": "d:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\obj\\",
+        "outputPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vvduc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,14 +21,18 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "d:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "d:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj"
+              "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj"
+              },
+              "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -43,6 +47,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -67,14 +75,14 @@
         }
       }
     },
-    "d:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj": {
+    "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "d:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\vvduc\\.nuget\\packages\\",
-        "outputPath": "d:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\obj\\",
+        "outputPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vvduc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,6 +110,70 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\vvduc\\.nuget\\packages\\",
+        "outputPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vvduc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

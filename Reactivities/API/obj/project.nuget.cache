@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VzlaYOeua2DL+Kp2ztA6VHbzLGFHzNkh6yb/yZojTyFz9k59sesK5dgqm7nek4KQaNr72J8vkr5XiZk3JZLwow==",
+  "dgSpecHash": "CABjkWl3ZpKj6GhteTaxa799QjO9xkKbFRbXUxZrPF4TZ1lvNdxt7vaak1fvkUqPtDAOEG/GvsZwip+v6Nqrag==",
   "success": true,
   "projectFilePath": "D:\\code-practices\\practive_net_reactjs\\net_reactjs_reactivities\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vvduc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\vvduc\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\vvduc\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\vvduc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\vvduc\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.10\\microsoft.data.sqlite.core.5.0.10.nupkg.sha512",
     "C:\\Users\\vvduc\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

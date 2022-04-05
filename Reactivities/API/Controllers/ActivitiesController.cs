@@ -1,4 +1,3 @@
-using System.Diagnostics;
 using System.Collections.Generic;
 using Persistence;
 using System.Threading.Tasks;
@@ -8,29 +7,34 @@ using Microsoft.AspNetCore.Mvc;
 using System;
 using MediatR;
 using Application.Activities;
+using Domain;
 
 namespace API.Controllers
 {
     public class ActivitiesController : BaseApiController
     {
-        private readonly IMediator _mediator;
-
-        public ActivitiesController(IMediator mediator)
-        {
-            _mediator = mediator;
-
-        }
 
         [HttpGet]
         public async Task<ActionResult<List<Activity>>> GetActivities()
         {
-            return Ok(await _mediator.Send(new List.Query()));
+            List<Activity> activities = await Mediator.Send(new List.Query());
+            if (activities != null)
+            {
+                return Ok(activities);
+            }
+            return null;
         }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetActivity(Guid id)
         {
-            return Ok();
+            return Ok(await Mediator.Send(new Details.Query {Id= id}));
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateActivity(Activity activity)
+        {
+            return Ok(await Mediator.Send(new Create.Command{ Activity = activity }));
         }
 
 
